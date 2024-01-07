@@ -1,1 +1,1 @@
- <img align="right" alt="Coding" width="400" src="/assets/banner.png">
+ <img align="right" alt="Coding" src="/assets/banner.png">
